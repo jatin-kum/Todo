@@ -54,8 +54,3 @@ To get a copy of the project up and running on your local machine, follow these 
    npm run dev
    ```
 
-6. Access the application in your web browser.
-
-## Deployment
-
-The application is deployed on Netlify and Heroku. You can access the deployed version at [Taskmaster Deployed Version](https://661bb1eb528b3d51517dac6a--friendly-cheesecake-7771f2.netlify.app/).
